@@ -1,0 +1,20 @@
+export const WORD_LIST = [
+  "algorithm", "binary", "compiler", "debugger", "encryption", "framework", "gateway", "hardware", "interface",
+  "javascript", "kernel", "latency", "metadata", "network", "optimizer", "protocol", "quantum", "runtime",
+  "security", "terminal", "utility", "virtual", "workflow", "xml", "yield", "zero", "architecture", "bandwidth",
+  "cloud", "database", "ethernet", "firewall", "graphics", "hosting", "index", "json", "keyboard", "library",
+  "memory", "node", "object", "pixel", "query", "router", "server", "thread", "uptime", "variable", "widget",
+  "async", "boolean", "callback", "deploy", "export", "function", "git", "hook", "import", "java", "lambda",
+  "module", "npm", "output", "promise", "queue", "react", "state", "type", "unit", "version", "webpack",
+  "api", "bash", "css", "dom", "edge", "fetch", "grid", "html", "iot", "js", "key", "linux", "map", "null",
+  "os", "perl", "rest", "sql", "txt", "uri", "vim", "web", "ssh", "sudo", "root", "dev", "prod", "test",
+  "code", "bash", "ruby", "rust", "php", "dart", "swift", "kotlin", "scala", "clojure", "elixir", "erlang",
+  "haskell", "prolog", "lisp", "fortran", "cobol", "pascal", "basic", "assembly", "binary", "hex", "math",
+  "logic", "pixel", "vector", "raster", "sprite", "buffer", "cache", "stack", "heap", "loop", "recursion",
+  "scope", "closure", "module", "package", "library", "binary", "static", "dynamic", "strict", "loose",
+  "frontend", "backend", "fullstack", "devops", "cloud", "serverless", "microservices", "docker", "k8s",
+  "ansible", "terraform", "jenkins", "gitlab", "github", "bitbucket", "jira", "confluence", "slack", "zoom",
+  "agile", "scrum", "kanban", "sprint", "story", "epic", "task", "bug", "feature", "release", "patch",
+  "hotfix", "deploy", "monitor", "alert", "incident", "stable", "beta", "alpha", "canary", "staging",
+  "localhost", "domain", "subdomain", "endpoint", "payload", "header", "cookie", "token", "auth", "session"
+];

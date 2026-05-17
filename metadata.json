@@ -1,0 +1,8 @@
+{
+  "name": "Speed Typist",
+  "description": "A high-octane, neon-infused arcade typing game where you must destroy falling words before they hit the floor. Features difficulty scaling, power-ups, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
